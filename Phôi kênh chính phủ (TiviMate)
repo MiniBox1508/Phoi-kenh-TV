@@ -1,0 +1,17 @@
+#EXTINF:-1 tvg-id="antvhd" group-title="THỜI SỰ" tvg-logo="https://rlink.vn/lgantv", ANTV HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="THỜI SỰ" tvg-logo="https://rlink.vn/lgqh", Quốc Hội
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="THỜI SỰ" tvg-logo="https://rlink.vn/lgqpvn", QPVN
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+#EXTINF:-1 tvg-id="vovtv" group-title="THỜI SỰ" tvg-logo="https://rlink.vn/lgvovtv", VOV TV HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="THỜI SỰ" tvg-logo="https://rlink.vn/lgnd", NHÂN DÂN HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong" 
+
+#EXTINF:-1 tvg-id="ttxvn" group-title="THỜI SỰ" tvg-logo="https://rlink.vn/lgttxvn", VNews - TTXVN
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
