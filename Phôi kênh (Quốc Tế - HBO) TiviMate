@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="hbo" group-title="QUỐC TẾ - HBO" tvg-logo="https://rlink.vn/lghbo", HBO HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="hbo2" group-title="QUỐC TẾ - HBO" tvg-logo="https://i.ibb.co/T0yrLDS/HBO-2-Logo.png", HBO 2
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="hbo_hits" group-title="QUỐC TẾ - HBO" tvg-logo="https://i.ibb.co/pK6Kckt/HBO-Hits-India.png", HBO HITS
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="hbo_signature" group-title="QUỐC TẾ - HBO" tvg-logo="https://rlink.vn/lghbosignature", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="cinemax" group-title="QUỐC TẾ - HBO" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", Cinemax
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+ 
+
+#EXTINF:-1 tvg-id="red_by_hbo" group-title="QUỐC TẾ - HBO" tvg-logo="https://i.ibb.co/fG0DcwZ/Red-by-HBO-BEARTV.png", Red by HBO
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
