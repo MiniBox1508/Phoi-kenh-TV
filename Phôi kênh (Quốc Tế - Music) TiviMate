@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-id="channel_v_hd" group-title="QUỐC TẾ - MUSIC" tvg-logo="https://rlink.vn/lgchannelv", Channel V HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="viva_tv" group-title="QUỐC TẾ - MUSIC" tvg-logo="https://i.ibb.co/bvTmmhm/Viva-TV-BEARTV.png" , VIVA TV 
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="1_hd_music_tv" group-title="QUỐC TẾ - MUSIC" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", 1 HD Music TV
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong" 
