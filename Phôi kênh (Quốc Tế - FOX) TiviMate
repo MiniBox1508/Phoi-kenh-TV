@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-id="fox" group-title="QUỐC TẾ - FOX" tvg-logo="https://i.ibb.co/Q6sGxxh/FOX-BEARTV.png", FOX HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="fox_family" group-title="QUỐC TẾ - FOX" tvg-logo="https://rlink.vn/lgfoxfamily", FOX FAMILY HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="fox_life" group-title="QUỐC TẾ - FOX" tvg-logo="https://i.ibb.co/bv0NjZX/Fox-Life-BEARTV.png", FOX LIFE HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="fox_movies" group-title="QUỐC TẾ - FOX" tvg-logo="https://rlink.vn/lgfoxmovies", FOX Movies HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="fox_sports" group-title="QUỐC TẾ - FOX" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png", FOX SPORTS 1 HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong" 
+
+
+#EXTINF:-1 tvg-id="fox_sports" group-title="QUỐC TẾ - FOX" tvg-logo="https://i.ibb.co/m6KmHcX/foxsport2-BEARTV.png", FOX SPORTS 2 HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong" 
+
+
+#EXTINF:-1 tvg-id="fox_sports_3" group-title="QUỐC TẾ - FOX" tvg-logo="https://i.ibb.co/DDvdY9W/foxsport3-BEARTV.png", FOX SPORTS 3 HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
