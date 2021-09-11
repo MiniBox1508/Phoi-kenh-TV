@@ -1,0 +1,71 @@
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1 
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+ 
+
+
+#EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png", HTV2 HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png", HTV3
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htv_key" group-title="HTV" tvg-logo="https://rlink.vn/lghtvkey", HTV Key
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong" 
+
+
+
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png", HTV THỂ THAO HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+#EXTINF:-1 tvg-id="htv7" tvg-logo="https://rlink.vn/lghtv7" group-title="HTV", HTV7 HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htv9" tvg-logo="https://rlink.vn/lghtv9" group-title="HTV", HTV9 HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htvc_ca_nhac" tvg-logo="https://rlink.vn/lghtvccn" group-title="HTV", HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htvc_du_lich_&_cuoc_song" tvg-logo="https://rlink.vn/lghtvcdlvcs" group-title="HTV", HTVC Du Lịch & Cuộc Sống
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htvc_gia_dinh" tvg-logo="https://rlink.vn/lghtvcgd" group-title="HTV", HTVC Gia Đình
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htvc_phim" tvg-logo="https://rlink.vn/lghtvcphim" group-title="HTV", HTVC Phim
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htvc_phu_nu" tvg-logo="https://rlink.vn/lghtvcpn" group-title="HTV", HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htvc_thuan_viet" tvg-logo="https://i.ibb.co/Rp5f6BC/HTVCTHUANVIET-BEARTV.png" group-title="HTV", HTVC Thuần Việt HD
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htvc_plus" tvg-logo="https://rlink.vn/lghtvcplus" group-title="HTV", HTVC Plus
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTV" tvg-logo="https://rlink.vn/lgfbnc", FBNC | 720P
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
