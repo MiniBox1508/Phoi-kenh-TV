@@ -1,70 +1,92 @@
-#EXTINF:-1 tvg-id="vtvcab1_vie_giai_tri" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab1", VTVCab1 - Vie Giải Trí HD
+#EXTINF:-1 tvg-id="vtvcab1_vie_giai_tri" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab1", VTVCab 1 - Vie Giải Trí HD
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab2" group-title="VTVCab" tvg-logo="https://i.ibb.co/XxJL4BC/VTVCAB2-BEARTV.png", VTVCab2 - Phim Việt
+
+#EXTINF:-1 tvg-id="vtvcab2_on_phim_viet" group-title="VTVCab" tvg-logo="https://rlink.vn/lgonpv", VTVCab 2 - On Phim Việt
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab3_the_thao_tv" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab3", VTV Cab 3 - Thể thao TV 
+
+#EXTINF:-1 tvg-id="vtvcab3_on_sports" group-title="VTVCab" tvg-logo="https://rlink.vn/lgonsports", VTVCab 3 - On Sports
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+ 
 
 
-#EXTINF:-1 tvg-id="vtvcab4" group-title="vtvcab4" tvg-logo="https://i.ibb.co/vv14vLN/VTVCAB4-BEARTV.png", VTVCab4 - Văn Hoá
- #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
-
-
-#EXTINF:-1 tvg-id="vtvcab5_e_channel" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab5", VTVcab5 - E Channel
+#EXTINF:-1 tvg-id="vtvcab4" group-title="vtvcab4" tvg-logo="https://i.ibb.co/vv14vLN/VTVCAB4-BEARTV.png", VTVCab 4 - Văn Hoá
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+ 
 
 
-#EXTINF:-1 tvg-id="vtvcab6_on_sports" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab6", VTVCab6 - ON SPORTS
+#EXTINF:-1 tvg-id="vtvcab5_e_channel" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab5", VTVcab 5 - E Channel
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+ 
 
 
-#EXTINF:-1 tvg-id="vtvcab7" group-title="VTVCab" tvg-logo="https://i.ibb.co/mTMBp7M/VTVCAB7-BEARTV.png", VTVCab7
+#EXTINF:-1 tvg-id="vtvcab6_on_sports" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab6", VTVCab 6 - ON SPORTS +
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+ 
+
+
+#EXTINF:-1 tvg-id="vtvcab7" group-title="VTVCab" tvg-logo="https://i.ibb.co/mTMBp7M/VTVCAB7-BEARTV.png", VTVCab 7
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+ 
 
 
 #EXTINF:-1 tvg-id="vtvcab8_bibi" group-title="VTVCab" tvg-logo="https://i.ibb.co/qDfmNHG/VTVCAB8-BEARTV.png", VTVCab 8 - BIBI
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab9_infotv" group-title="VTVCab" tvg-logo="https://i.ibb.co/m008TNS/VTVCAB9-BEARTV.png", VTVCab9 - Info TV
+
+#EXTINF:-1 tvg-id="vtvcab9_infotv" group-title="VTVCab" tvg-logo="https://i.ibb.co/m008TNS/VTVCAB9-BEARTV.png", VTVCab 9 - Info TV
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab10" group-title="VTVCab" tvg-logo="https://i.ibb.co/8c2C9wQ/VTVCAB19-BEARTV.png", VTVCab10 
+
+#EXTINF:-1 tvg-id="vtvcab10_on_cine" group-title="VTVCab" tvg-logo="https://rlink.vn/lgoncine", VTVCab 10 - On Cine
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab12_style_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/JHSSN5c/VTVCAB12-BEARTV.png", VTVCab12 - StyleTV
+
+#EXTINF:-1 tvg-id="vtvcab12_style_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/JHSSN5c/VTVCAB12-BEARTV.png", VTVCab 12 - Style TV
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab15", VTVCab15
+
+#EXTINF:-1 tvg-id="vtvcab15" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab15", VTVCab 15
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab16", VTVcab16 - Bóng đá TV
-#EXTVLCOPT:http-user-agent="Zhang Qingxiong" 
 
-
-#EXTINF:-1 tvg-id="vtvcab17_yeah1_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/1zqJmX9/VTVCAB17-BEARTV.png", VTVCab17 - Yeah1! TV
+#EXTINF:-1 tvg-id="vtvcab16" group-title="VTVCab" tvg-logo="https://rlink.vn/lgonfootball", VTVcab 16 - On Football
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab18_the_thao_tin_tuc" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab18", VTVcab18 - Thể thao tin tức 
+
+#EXTINF:-1 tvg-id="vtvcab17_yeah1_tv" group-title="VTVCab" tvg-logo="https://i.ibb.co/1zqJmX9/VTVCAB17-BEARTV.png", VTVCab 17 - Yeah1! TV
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab19_vie_dramas" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab19", VTVCab19 - Vie Dramas
+
+#EXTINF:-1 tvg-id="vtvcab18_on_sports_new_premium" group-title="VTVCab" tvg-logo="https://rlink.vn/lgosnp", VTVcab 18 - On Sports News Premium
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab20" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab20", VTVcab20
+
+#EXTINF:-1 tvg-id="vtvcab19_vie_dramas" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab19", VTVCab 19 - Vie Dramas
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
 
 
-#EXTINF:-1 tvg-id="vtvcab23_golf_news" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab23", VTVcab23 - Thể thao Golf
+
+#EXTINF:-1 tvg-id="vtvcab20" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab20", VTVCab 20
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="vtvcab22_life_tv" group-title="VTVCab" tvg-logo="https://rlink.vn/lgvtvcab22", VTVCab 22 - Life TV
+#EXTVLCOPT:http-user-agent="Zhang Qingxiong"
+
+
+
+#EXTINF:-1 tvg-id="vtvcab23_on_golf_premium" group-title="VTVCab" tvg-logo="https://rlink.vn/lgogp", VTVcab23 - On Golf Premium
 #EXTVLCOPT:http-user-agent="Zhang Qingxiong"
